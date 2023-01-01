@@ -1,3 +1,5 @@
+# an ai assistant to help you perform basic task
+# contact me if have any surgesings, thank you world
 import speech_recognition as sr
 import pyttsx3
 import datetime
