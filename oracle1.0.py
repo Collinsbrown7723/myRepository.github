@@ -1,4 +1,5 @@
 # an ai assistant to help you perform basic task
+# follow the method to add any command you need
 # contact me if have any surgesings, thank you world
 import speech_recognition as sr
 import pyttsx3
